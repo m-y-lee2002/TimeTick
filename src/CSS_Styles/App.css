@@ -1,0 +1,23 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow-x: hidden;
+    width:100%;
+  }
+  
+.app {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.header{
+    height: 15%;
+    background-color: whitesmoke;
+}
+.body{
+    height: 80%;
+}
+.footer{
+    height: 5%;
+}
